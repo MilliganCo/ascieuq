@@ -1,5 +1,7 @@
 # ASCII HyperMaze
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Топдаун-лабиринт в гиперболической геометрии с ASCII-рендером на Canvas.
 
 ## Описание
@@ -65,3 +67,8 @@ src/
 - Стражи с гиперболическим FOV
 - ASCII-рендер вне терминала на Canvas
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
